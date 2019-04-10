@@ -1,2 +1,6 @@
 # store-dbms
-A simple Database Management System for stores
+This is a simple Database Management System for stores.
+
+Environment:
+- C#
+- MS SQL Server database
