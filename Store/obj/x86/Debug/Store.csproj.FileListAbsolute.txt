@@ -1,0 +1,17 @@
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\bin\Debug\Store.exe
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\bin\Debug\Store.pdb
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\Store.Form1.resources
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\Store.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\Store.exe
+c:\users\alex\documents\visual studio 2010\Projects\Store\Store\obj\x86\Debug\Store.pdb
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.exe
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.pdb
+D:\Git\Store Database Management System\Store\bin\Debug\Store.exe
+D:\Git\Store Database Management System\Store\bin\Debug\Store.pdb
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.csprojResolveAssemblyReference.cache
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.Form1.resources
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.Properties.Resources.resources
+D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
