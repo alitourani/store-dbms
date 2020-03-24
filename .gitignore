@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/Store/v16/Server/sqlite3/storage.ide-wal
+/.vs/Store/v16/Server/sqlite3/storage.ide-shm
+/.vs/Store/v16/Server/sqlite3/storage.ide
+/.vs/Store/v16/Server/sqlite3/db.lock
+/.vs/Store/v16/Server/sqlite3

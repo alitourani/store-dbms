@@ -77,7 +77,7 @@ namespace Store
 
         //______________________________________________________ textfields __________________________________________
         
-        // National Code Change
+        // Identity Number Change
         private void textBox31_TextChanged(object sender, EventArgs e)
         {
             if (textBox31.Text != "")
@@ -182,7 +182,7 @@ namespace Store
         private void button24_Click(object sender, EventArgs e)
         {
             if (textBox31.Text == "")
-                textBox10.Text = "Fill the National Code Field And Try Again!";
+                textBox10.Text = "Fill the Identity Number Field And Try Again!";
             else
             {
                 textBox10.Text = "";
@@ -195,7 +195,7 @@ namespace Store
                     textBox31.Text = textBox29.Text = textBox30.Text = textBox28.Text = textBox25.Text = textBox19.Text = "";
                 }
                 else
-                    MessageBox.Show("National Code Must Be a Number!");
+                    MessageBox.Show("Identity Number Must Be a Number!");
             }
         }
 

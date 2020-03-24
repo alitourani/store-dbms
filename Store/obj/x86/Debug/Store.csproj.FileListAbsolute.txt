@@ -15,3 +15,15 @@ D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.csprojResolveA
 D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.Form1.resources
 D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.Properties.Resources.resources
 D:\Git\Store Database Management System\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
+E:\Git\store-dbms\Store\bin\Debug\Store.exe
+E:\Git\store-dbms\Store\bin\Debug\Store.pdb
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.csprojAssemblyReference.cache
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.Form1.resources
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.Properties.Resources.resources
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.csproj.GenerateResource.cache
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.csproj.CoreCompileInputs.cache
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.exe
+E:\Git\store-dbms\Store\obj\x86\Debug\Store.pdb
+E:\Git\store-dbms\Store\bin\Debug\StoreAccounting.mdf
+E:\Git\store-dbms\Store\bin\Debug\StoreAccounting_log.ldf
+E:\Git\store-dbms\Store\bin\Debug\Store.exe.config
